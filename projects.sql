@@ -28,14 +28,6 @@ group by customer.customer_id
 order by total Desc
 limit 1
 
----Q5.Who is the best customer? The customer who has spent the most money will be declared the best customer.
----Write a query that returns the person who has spent the most money. 
-select customer.customer_id , customer.first_name , customer.last_name , sum(invoice.total) as total from customer
-Join invoice ON customer.customer_id = invoice.customer_id
-group by customer.customer_id
-order by total desc
-limit 1 
-
            ---Set 2 
 ---Q1. Write query to return the email , firstname , lastname and Genre all the Rock Music listners.Return your list ordered alphabetically by email starting with A .
 select distinct customer.email, customer.first_name, customer.last_name, genre.name as genre
@@ -111,6 +103,7 @@ from (
 )
 where rnk = 1
 order by country;
+
 
 
 
