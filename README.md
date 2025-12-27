@@ -151,18 +151,17 @@ Digital-Music-analysis-store/
 By exploring this project, you'll master:
 
 <div align="center">
-```
-┌─────────────────────────────────────────────┐
-│  ✅ Complex SQL Joins (INNER, LEFT, RIGHT)  │
-│  ✅ Aggregate Functions (SUM, AVG, COUNT)   │
-│  ✅ GROUP BY & HAVING Clauses               │
-│  ✅ Subqueries & Common Table Expressions   │
-│  ✅ Window Functions & Rankings             │
-│  ✅ Data Filtering & Conditional Logic      │
-│  ✅ Real-world Database Design              │
-│  ✅ Business Intelligence Reporting         │
-└─────────────────────────────────────────────┘
-```
+
+| 💡 Skills You'll Gain |
+|:---|
+| ✅ Complex SQL Joins (INNER, LEFT, RIGHT, FULL) |
+| ✅ Aggregate Functions (SUM, AVG, COUNT, MIN, MAX) |
+| ✅ GROUP BY & HAVING Clauses |
+| ✅ Subqueries & Common Table Expressions (CTEs) |
+| ✅ Window Functions & Rankings |
+| ✅ Data Filtering & Conditional Logic |
+| ✅ Real-world Database Design Principles |
+| ✅ Business Intelligence Reporting |
 
 </div>
 
@@ -238,7 +237,7 @@ Feel free to use it for learning and reference.
 
 <div align="center">
 
-**Prachi**
+**Prachi Paliwal**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prachi005748)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prachi)
